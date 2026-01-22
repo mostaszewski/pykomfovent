@@ -7,6 +7,8 @@
 
 Async Python client for Komfovent C6 ventilation units.
 
+> **Support:** [Open an issue](https://github.com/mostaszewski/pykomfovent/issues) or contact pykomfovent@ostaszewski.pl
+
 ## Installation
 
 ```bash
