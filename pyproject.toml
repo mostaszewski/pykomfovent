@@ -1,6 +1,6 @@
 [project]
 name = "pykomfovent"
-version = "1.0.1"
+version = "1.0.2"
 description = "Python client for Komfovent C6 ventilation units"
 readme = "README.md"
 license = { text = "MIT" }
